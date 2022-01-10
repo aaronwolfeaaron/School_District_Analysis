@@ -8,9 +8,6 @@ The purpose of this project was to analyze data from a set of high schools in a 
 
 The school district summary 
 
-![](https://github.com/aaronwolfeaaron/School_District_Analysis/blob/main/District_Summary_Old.png) 
-![](https://github.com/aaronwolfeaaron/School_District_Analysis/blob/main/District_Summary_New.png)
-
 * How is the school summary affected?
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
