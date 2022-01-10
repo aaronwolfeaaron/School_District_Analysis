@@ -7,7 +7,7 @@ The purpose of this project was to analyze data from a set of high schools in a 
 * How is the district summary affected?
 The school district summary 
 
-[] ! ("District_Summary_Old.png")
+![](Image URL)
 
 * How is the school summary affected?
 
