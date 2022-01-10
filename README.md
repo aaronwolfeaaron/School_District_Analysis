@@ -7,7 +7,7 @@ The purpose of this project was to analyze data from a set of high schools in a 
 * How is the district summary affected?
 The school district summary 
 
-![](Image URL)
+![](https://github.com/aaronwolfeaaron/School_District_Analysis/blob/main/District_Summary_Old.png) 
 
 * How is the school summary affected?
 
