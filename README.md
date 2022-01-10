@@ -13,7 +13,7 @@ The school district summary was minimally affected by the removal of the Thomas 
 
 * How is the school summary affected?
 
-
+The school summary changes are best appreciated when broken down by factor (school size, school type, budget) and those factors will be addressed below. 
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -23,36 +23,18 @@ There was not a dramatic change in Thomas High School's overall performance rela
 
 * How does replacing the ninth-grade scores affect the following:
 
-* Math and reading scores by grade
+* Math and reading scores by grade: The reading scores improved more than the math scores. The math score was not changed at the tenths place of a percentage. 
 
-* Scores by school spending
+* Scores by school spending: Scores by school spending were relatively unchanged. Thomas High School stayed within the previously assigned bin after removing the ninth grade scores. 
 
-* Scores by school size
+* Scores by school size: Thomas High School is quite large so the overall effect on the data was small due to the fact that the average across the school was not much affected by the removal of the ninth grade scores and the power of an outlier was diminished by sheer data amount. 
 
-* Scores by school type
+* Scores by school type: Thomas High School being a charter school did slightly move the data to show favortism towards the charter system in producing higher test scores. 
 
 # Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
-
-Links to images are working, and code is formatted and displayed correctly (2 pt).
-Analysis (18 points)
-The written analysis has the following:
-
-There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
-Summary:
-
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
-Submission
-Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to overlook items when you’re in the zone!
-
-As a reminder, the deliverables for this Challenge are as follows:
-
-Deliverable 1: Replace ninth-grade reading and math scores
-Deliverable 2: Repeat the school district analysis
-Deliverable 3: A written report for the school district analysis (README.md)
-Upload the following to your School_District_Analysis GitHub repository:
-
-The PyCitySchools_Challenge.ipynb file.
-The Resources folder with the schools_complete.csv and students_complete.csv files.
-An updated README.md that has your written analysis.
-To submit your challenge assignment in Canvas, click Submit, then provide the URL of your School_District_Analysis GitHub repository for grading. Comments are disabled for graded submissions in BootCampSpot. If you have questions about your feedback, please notify your instructional staff or the Student Success Manager. If you would like to resubmit your work for an improved grade, you can use the Re-Submit Assignment button to upload new links. You may resubmit up to 3 times for a total of 4 submissions.
+Because Thomas High School is a large, well-funded school, there were not overly remarkable changes in the data analysis after removing the ninth grade scores. Below are four key findings.
+1. Because Thomas High School is large, the removal of scores did not have an appreciable impact because the outliers within Thomas High School scores did not skew the data of such a large group.
+2. Because Thomas High School was already one of the most well-funded schools in the district, the amount of money per student also did not have an appreciable effect because the other grades still performed above average once the ninth graders were removed. Therefore, the Thomas High School scores overall were largely unchanged. 
+3. The reading scores for Thomas High School did appreciably increase, but math scores did not, when ninth grade scores were removed. The average school in the district had significantly lower math than reading scores, so this was not a surprising finding. 
+4. Despite removal of the ninth grade scores, Thomas High School was the second highest performing overall in the district. This shows that while the ninth grade data were skewing the data, the factors of school size, budget, spending per capita, etc. had mixed well to provide an impactful learning environment for the students. 
