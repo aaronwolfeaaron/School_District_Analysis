@@ -5,9 +5,11 @@ The purpose of this project was to analyze data from a set of high schools in a 
 
 # Results:
 * How is the district summary affected?
+
 The school district summary 
 
 ![](https://github.com/aaronwolfeaaron/School_District_Analysis/blob/main/District_Summary_Old.png) 
+![](https://github.com/aaronwolfeaaron/School_District_Analysis/blob/main/District_Summary_New.png)
 
 * How is the school summary affected?
 
