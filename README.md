@@ -5,7 +5,9 @@ The purpose of this project was to analyze data from a set of high schools in a 
 
 # Results:
 * How is the district summary affected?
-** The school district summary 
+The school district summary 
+
+[]!(District_Summary_New.png)
 
 * How is the school summary affected?
 
