@@ -6,7 +6,7 @@ The purpose of this project was to analyze data from a set of high schools in a 
 # Results:
 * How is the district summary affected?
 
-The school district summary was minimally affected by the removal of the Thomas High School 9th Grade data. As evidenced in the images below, the change was significant enough only to make a 0.1-0.2% change at most in any given measurement. 
+The school district summary was minimally affected by the removal of the Thomas High School 9th Grade data. As evidenced in the images below, the change was significant enough only to make a 0.1-0.2% change in the measurement of "% Passing Reading" and "% Overall Passing."
 
 ![](https://github.com/aaronwolfeaaron/School_District_Analysis/blob/main/District_Summary_Old.png)
 ![](https://github.com/aaronwolfeaaron/School_District_Analysis/blob/main/District_Summary_New.png)
@@ -16,6 +16,10 @@ The school district summary was minimally affected by the removal of the Thomas 
 
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+There was not a dramatic change in Thomas High School's overall performance relative to other schools. In fact, Thomas High School had the second highest overall passing rate of the fifteen schools in the study.
+
+![](https://github.com/aaronwolfeaaron/School_District_Analysis/blob/main/Top_5_Schools.png)
 
 * How does replacing the ninth-grade scores affect the following:
 
